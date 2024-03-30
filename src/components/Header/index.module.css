@@ -1,0 +1,13 @@
+.wrapper{
+    max-width: 900px;
+    width: 100%;
+    margin: 50px auto;
+}
+.input{
+    width: 70%;
+    padding: 7px;
+
+}
+.input:focus{
+    outline: none;
+}
